@@ -6,7 +6,7 @@ Tengo conocimientos en `Javascript` `Typescript` `React` `Redux` `CSS` `HTML` `N
 
 Mi principal objetivo es seguir aprendiendo y creciendo tanto en lo personal como en lo profesional. Mejorar constantemente mis habilidades e incorporar nuevas herramientas para tener mas dinamismo y productividad.
 
-Mis experiencias laborales son en su mayoría ajenas a los campos de IT pero me han brindado la posibilidad de incorporar `habilidades blandas` tales como `comunicación` `adaptabilidad` `trabajo en equipo` `paciencia` `capacidad analítica` `organización` `curiosidad` `servicio al cliente` `atención al detalle` `colaboración` `pensamiento crítico` `compromiso` `aprendizaje continuo`.
+Mis experiencias laborales me han brindado la posibilidad de incorporar `habilidades blandas` tales como `comunicación` `adaptabilidad` `trabajo en equipo` `paciencia` `capacidad analítica` `organización` `curiosidad` `servicio al cliente` `atención al detalle` `colaboración` `pensamiento crítico` `compromiso` `aprendizaje continuo`.
 
 La experiencia laboral que si incluyo en el campo de IT fue Touchpoint donde fui Co-founder (@touchpoint.cba instagram), proyecto con tiempo de vida en el año 2020 donde gestioné redes sociales, métricas, creación y diseño de tienda virtual, asesoramiento y enseñanza al cliente sobre uso de plataformas y aplicaciones, creación, gestión y organización de contenidos, venta de servicio. 
 
