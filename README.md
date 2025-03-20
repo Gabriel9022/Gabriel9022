@@ -2,7 +2,7 @@
 
 Mi nombre es Gabriel, soy `Full Stack Developer` recibido en Henry donde aprendí a desarrollar aplicaciones web y potencié mis habilidades para trabajar en equipo.
 
-Tengo conocimientos en `Javascript` `Typescript` `React` `Redux` `CSS` `HTML` `Node.js` `Express` `Sequelize` `PostgreSQL` `sqlite` `Git` y `GitFlow`
+Tengo conocimientos en `Javascript` `Typescript` `React` `Redux` `CSS` `HTML` `Node.js` `Express` `Sequelize` `PostgreSQL` `sqlite` `VTEX` `Git` y `GitFlow`
 
 Mi principal objetivo es seguir aprendiendo y creciendo tanto en lo personal como en lo profesional. Mejorar constantemente mis habilidades e incorporar nuevas herramientas para tener mas dinamismo y productividad.
 
