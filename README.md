@@ -8,9 +8,11 @@ Mi principal objetivo es seguir aprendiendo y creciendo tanto en lo personal com
 
 Mis experiencias laborales me han brindado la posibilidad de incorporar `habilidades blandas` tales como `comunicación` `adaptabilidad` `trabajo en equipo` `paciencia` `capacidad analítica` `organización` `curiosidad` `servicio al cliente` `atención al detalle` `colaboración` `pensamiento crítico` `compromiso` `aprendizaje continuo`.
 
-La experiencia laboral que si incluyo en el campo de IT fue Touchpoint donde fui Co-founder (@touchpoint.cba instagram), proyecto con tiempo de vida en el año 2020 donde gestioné redes sociales, métricas, creación y diseño de tienda virtual, asesoramiento y enseñanza al cliente sobre uso de plataformas y aplicaciones, creación, gestión y organización de contenidos, venta de servicio. 
+Mi primer experiencia en el campo de IT fue Touchpoint donde fui Co-founder (@touchpoint.cba instagram), proyecto con tiempo de vida en el año 2020 donde gestioné redes sociales, métricas, creación y diseño de tienda virtual, asesoramiento y enseñanza al cliente sobre uso de plataformas y aplicaciones, creación, gestión y organización de contenidos, venta de servicio. 
 
 Sin lugar a dudas Touchpoint fue mi motivación para despertar todo de lo que soy capaz, darme cuenta que podía aprender de manera dinámica e incorporar nuevos conocimientos en cortos períodos de tiempo, algo que me alienta a estar siempre con entusiasmo de ir por mas.
+
+Hoy en día, mis experiencias laborales han variado, desde ser empleado para una empresa multinacional hasta vender servicios y proyectos de manera personal, en ambos casos el crecimiento es notorio y cada vez alegra mas el saber que mis conocimientos progresivos pueden contribuir a diferentes proyectos,
 
 ***Me gusta pensar que a través de la tecnología se puede ayudar a las personas y considero que programar es un excelente camino para lograrlo.***
 
